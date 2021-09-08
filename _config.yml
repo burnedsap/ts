@@ -4,32 +4,12 @@ permalink: pretty
 title: TS1
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  documentation of thesis studio work
+  documentation of thesis studio work. very much WIP.
 baseurl: "/ts1" # the subpath of your site, e.g. /blog
 url: "https://burnedsap.github.io/ts1"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: burnedspa
+github_username:  burnedsap
 
 # Build settings
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
