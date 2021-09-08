@@ -10,7 +10,7 @@ title: TS1
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   documentation of thesis studio work
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://burnedsap.github.io/ts1" # the subpath of your site, e.g. /blog
 url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
