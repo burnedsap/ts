@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               MS2
+title:               TS1
 tagline:             documentation blog
-url:                 https://burnedsap.github.io/ms2
-paginate:            1
-baseurl:             https://burnedsap.github.io/ms2
+url:                 https://burnedsap.github.io/ts1
+paginate:            0
+baseurl:             https://burnedsap.github.io/ts1
 
 # Assets
 #
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.1.0
 github:
-  repo:              https://github.com/burnedsap/ms2
+  repo:              https://github.com/burnedsap/ts1
 
 # Gems
 gems:

@@ -1,0 +1,143 @@
+I"!.<table>
+  <thead>
+    <tr>
+      <th>Author Name</th>
+      <th>Title</th>
+      <th>Citation</th>
+      <th>Keywords</th>
+      <th>Summary</th>
+      <th>Relevance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Doore, Karen</td>
+      <td><a href="https://doi.org/10.1145/2493394.2493418">Alternate Realities for Computational Thinking</a></td>
+      <td><a href="https://dl.acm.org/doi/proceedings/10.1145/2493394">ICER ‘13: Proceedings of the ninth annual international ACM conference on International computing education research</a>. August 2013 Pages 171–172</td>
+      <td>Social and professional topics, Computing education, Computing educational programs,</td>
+      <td>This paper looks at how Alternate Reality Games (ARGs) can be used “as an educational platform to engage students in a collaborative exploration of the field of computing as a means to increase interest in computing”. This is an interesting approach toward education as it explores new mediums and types of content delivery.</td>
+      <td>A look at new approaches toward education on computers using computers</td>
+    </tr>
+    <tr>
+      <td>Anand, Abhinav, Veljko Pejovic, Elizabeth M. Belding, and David L. Johnson</td>
+      <td><a href="https://doi.org/10.1145/2160673.2160698">VillageCell</a></td>
+      <td><em>Proceedings of the Fifth International Conference on Information and Communication Technologies and Development - ICTD ‘12</em>, March 2012</td>
+      <td>Networks, Network architecture, Cross-computing tools and techniques</td>
+      <td>VillageCell uses existing technology stack to create systems which help boost connectivity in areas often left behind by the government and development organisations. This “relies on software defined radios and open-source solutions to provide free local and cheap long-distance communication for remote regions”.</td>
+      <td>The focus on using existing tech stacks is of particular interest to me. The implementation of this does raise some questions which I’d like to keep in mind.</td>
+    </tr>
+    <tr>
+      <td>Matthee, K. W., G. Mweemba, A. V. Pais, G. van Stam, and M. Rijken</td>
+      <td><a href="https://doi.org/10.1109/ictd.2007.4937391">Bringing Internet Connectivity to Rural Zambia Using a Collaborative Approach</a></td>
+      <td><em>2007 International Conference on Information and Communication Technologies and Development</em>, 2007</td>
+      <td>Web and internet services,  Satellites,  IP networks,  Wireless LAN,  Employment,  Costs,  Bandwidth,  International collaboration,  Africa,  Technological innovation</td>
+      <td>Similar to VillageCell, this paper shows how using older tech stacks can be used to provide services. It “operates using satellite terminals (for connection to the Internet) and a wireless local area network.” Especially with regard to the potential use cases of this application.</td>
+      <td>Great use of older tech, especially with the uses cases mentioned of helping communities</td>
+    </tr>
+    <tr>
+      <td>Warschauer, Mark</td>
+      <td>Technology and Social Inclusion: Rethinking the Digital Divide</td>
+      <td>Cambridge, MA: MIT, 2004</td>
+      <td>Digital divide, social inclusion</td>
+      <td>A great read which goes into details of “Drawing on theory from political science, economics, sociology, psychology, communications, education, and linguistics, the book examines the ways in which differing access to technology contributes to social and economic stratification or inclusion” with case studies from disaffected countries like the US and developing nations of Brazil, India, China.</td>
+      <td>Interesting read-nice direction to head in, if obvious</td>
+    </tr>
+    <tr>
+      <td>Bederson, Benjamin B., James D. Hollan, Ken Perlin, Jonathan Meyer, David Bacon, and George Furnas</td>
+      <td><a href="https://doi.org/10.1006/jvlc.1996.0002">Pad++: A Zoomable Graphical Sketchpad For Exploring Alternate Interface Physics</a></td>
+      <td><em>Journal of Visual Languages &amp; Computing</em> 7, no. 1 (1996): 3–32</td>
+      <td>Interactive user interfaces, multiscale interfaces, zoomable interfaces, authoring, information navigation</td>
+      <td>Albeit an old paper, it explores the development of new kinds of interactions within software which are quite different from other softwares of the time, and also of the new kinds of HCI.</td>
+      <td>New kinds of approaches, a more human centered approach toward software. The key here is to look at a planet-centered approach toward design.</td>
+    </tr>
+    <tr>
+      <td>Raman, Aravindh, Sagar Joglekar, Emiliano De Cristofaro, Nishanth Sastry, and Gareth Tyson</td>
+      <td><a href="https://doi.org/10.1145/3355369.3355572">Challenges in the Decentralised Web</a></td>
+      <td><em>Proceedings of the Internet Measurement Conference</em>, 2019</td>
+      <td>Networks, information systems, world wide web, social networks, network measurement</td>
+      <td>Explores the Decentralised Web through platforms such as PeerTube, HubZilla, with a focus on Mastodon.</td>
+      <td>Important to the sudy of un-centralised edge computational systems</td>
+    </tr>
+    <tr>
+      <td>Conor Linehan, Ben J. Kirman, Stuart Reeves, Mark A. Blythe, Theresa Jean Tanenbaum, Audrey Desjardins, and Ron Wakkary</td>
+      <td><a href="https://doi.org/10.1145/2559206.2560472">Alternate endings: using fiction to explore design futures</a></td>
+      <td><em>CHI ‘14 Extended Abstracts on Human Factors in Computing Systems</em>. Association for Computing Machinery, 2014</td>
+      <td>Human-centered computing, design fiction, speculative design</td>
+      <td>Paper explores “fictional narratives to envision long-term consequences of contemporary HCI projects”, which is good approach in trying to understand the consequences of the things we create</td>
+      <td>Speculative design is always important to the process.</td>
+    </tr>
+    <tr>
+      <td>Sanchez-Iborra, Ramon, and Antonio F. Skarmeta</td>
+      <td><a href="https://doi.org/10.1109/mcas.2020.3005467">TinyML-Enabled Frugal Smart Objects: Challenges and Opportunities</a></td>
+      <td><em>IEEE Circuits and Systems Magazine</em> 20, no. 3 (August 13, 2020): 4–18</td>
+      <td>Task analysis,  Memory management,  Circuits and systems,  Data security,  Microcontrollers,  Energy efficiency,  Data privacy,  Ecosystems,  Object recognition,  Machine learning</td>
+      <td>Explores the use of the TinyML paradigm, which are small microcomputers running ML. A survey of the existing ecosystem is in the paper. It also proposes a framework of a Radio Access Network architecture for smart frugal objects.</td>
+      <td>Great introduction to the world of TinyML.</td>
+    </tr>
+    <tr>
+      <td>David, Robert, Jared Duke, Advait Jain, Vijay Janapa Reddi, Nat Jeffries, Jian Li, Nick Kreeger, et al</td>
+      <td><a href="https://arxiv.org/abs/2010.08678">TensorFlow Lite Micro: Embedded Machine Learning on TinyML Systems</a></td>
+      <td>arXiv.org. Cornell University, October 20, 2020</td>
+      <td> </td>
+      <td>Looks at the finer technicalities of running ML models on smaller edge systems</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Banbury, Colby R., C. Zhou, I. Fedorov, R. Navarro, Urmish Thakker, Dibakar Gope, V. Reddi, Matthew Mattina, and P. N. Whatmough</td>
+      <td><a href="https://www.semanticscholar.org/paper/MicroNets%3A-Neural-Network-Architectures-for-TinyML-Banbury-Zhou/fd9e3e0b047a6d2b13b7a301e552bc375c8ebe09">MicroNets: Neural Network Architectures for Deploying TinyML Applications on Commodity Microcontrollers</a></td>
+      <td><em>ArXiv</em>abs/2010.11267 (2020)</td>
+      <td> </td>
+      <td>Executing machine learning workloads locally on resource constrained microcontrollers (MCUs) promises to drastically expand the application space of IoT. However, so-called TinyML presents severe technical challenges, as deep neural network inference demands a large compute and memory budget. To address this challenge, neural architecture search (NAS) promises to help design accurate ML models that meet the tight MCU memory, latency and energy constraints.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Lin, J., Wei-Ming Chen, Yujun Lin, J. Cohn, Chuang Gan, and Song Han</td>
+      <td><a href="https://www.semanticscholar.org/paper/MCUNet%3A-Tiny-Deep-Learning-on-IoT-Devices-Lin-Chen/ea142242898ccc797af88cc633fb8618b272ee62">MCUNet: Tiny Deep Learning on IoT Devices</a></td>
+      <td><em>ArXiv</em> abs/2007.10319 (2020)</td>
+      <td> </td>
+      <td>Combine multiple devices to create a local net: MCUNet, a framework that jointly designs the efficient neural architecture (TinyNAS) and the lightweight inference engine (TinyEngine), enabling ImageNet-scale inference on microcontrollers.</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Liu, Di, Hao Kong, X. Luo, Weichen Liu, and R. Subramaniam</td>
+      <td><a href="https://www.semanticscholar.org/paper/Bringing-AI-To-Edge%3A-From-Deep-Learning's-Liu-Kong/75f9918fe00a5bf83092b989e2ed3b9ca0f10a4e">Bringing AI To Edge: From Deep Learning’s Perspective</a></td>
+      <td><em>ArXiv</em> abs/2011.14808 (2020)</td>
+      <td> </td>
+      <td>Overview of the Edge world and future development roadmaps</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Vuppalapati, Chandrasekar, Anitha Ilapakurti, Sharat Kedari, Jaya Vuppalapati, Santosh Kedari, and Raja Vuppalapati</td>
+      <td><a href="https://doi.org/10.1109/icict50521.2020.00089">Democratization of AI, Albeit Constrained IoT Devices &amp; Tiny ML, for Creating a Sustainable Food Future</a></td>
+      <td><em>2020 3rd International Conference on Information and Computer Technologies (ICICT)</em>, March 9, 2020</td>
+      <td> </td>
+      <td>develop a framework to deploy artificial intelligence models in constrained compute environments that enable remote rural areas and small farmers to join the data revolution and start contribution to the digital economy and empowers the world through the data to create a sustainable food for our collective future. This is the direction I need to head in. Tiny computers-context-local control-huge win</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Chen, Jiasi, and Xukan Ran</td>
+      <td><a href="https://www.semanticscholar.org/paper/Deep-Learning-With-Edge-Computing%3A-A-Review-Chen-Ran/4f2d4e821dd03ac5df7d5448948bc738aefdd6db">Deep Learning With Edge Computing: A Review</a></td>
+      <td><em>Proceedings of the IEEE</em> 107 (2019): 1655-1674</td>
+      <td> </td>
+      <td>Overview of edge sensors and compute modules</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Zhou, Z., X. Chen, E. Li, Liekang Zeng, K. Luo and Junshan Zhang</td>
+      <td><a href="https://www.semanticscholar.org/paper/Edge-Intelligence%3A-Paving-the-Last-Mile-of-With-Zhou-Chen/928cd808aba140ec298508df87c5579811ff2f41">Edge Intelligence: Paving the Last Mile of Artificial Intelligence With Edge Computing</a></td>
+      <td><em>Proceedings of the IEEE</em> 107 (2019): 1738-1762</td>
+      <td> </td>
+      <td>a comprehensive survey of the recent research efforts on Edge Intelligence</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Han, Yiwen, X. Wang, Victor C. M. Leung, D. Niyato, Xueqiang Yan and X. Chen</td>
+      <td><a href="https://www.semanticscholar.org/paper/Convergence-of-Edge-Computing-and-Deep-Learning%3A-A-Han-Wang/4cd03cd34e7e94d1b1ee293d5dead8efc24c1a6d">Convergence of Edge Computing and Deep Learning: A Comprehensive Survey</a></td>
+      <td><em>IEEE Communications Surveys &amp; Tutorials</em> 22 (2020): 869-904</td>
+      <td> </td>
+      <td>Survey of Edge Intelligence and Edge computing</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET
