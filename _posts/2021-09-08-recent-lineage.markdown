@@ -23,7 +23,7 @@ EchoLearn is a tool which helps visually impaired people learn the technique of 
 *Joyce Zheng*\\
 The speculative nature of this easy to understand project is thought provoking. The resultant publications shows how the weeds of the future will look like, having to adapt to the anthropocene. This helps the viewer reflect on the far reaching effects of the anthropocene.
 
-[Digital Devotion][5] {:target="_blank”}\\
+[Digital Devotion][5]{:target="_blank”}\\
 *Nadine Razzouk*\\
 Digital Devotion is a critical design project which takes an ironic, yet critical look at the obsession with social media and highlights the similarities between social media and religion. The public installation and performative aspect of the project both evoke reactions from the viewers.
 
@@ -31,7 +31,7 @@ Digital Devotion is a critical design project which takes an ironic, yet critica
 
 Other relevant thesis projects
 
-- [Bikes Against Bush: Using Wireless Bicycles to Protest the 2004 Republican National Convention in NYC][6] {:target="_blank"}
+- [Bikes Against Bush: Using Wireless Bicycles to Protest the 2004 Republican National Convention in NYC][6]{:target="_blank"}
 - [Amara][7]{:target="_blank"}
 
 
