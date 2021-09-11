@@ -7,23 +7,23 @@ categories: writing research
 
 Projects from the last few years:
 
-[Queering Our Interfaces](https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2020_golde584)\
-*Elena Lee Gold*\
+[Queering Our Interfaces][1]\\
+*Elena Lee Gold*\\
 The work serves as a critique of current human-computer interactions as a manifestation of hetero/gender normativity and attempts to reimagine these relationships with machines. Elena asks how creating an alternate human-computer relationship could open up possibilities for relationship dynamics in the physical world. The project takes the form for 4 Google Chrome extensions. Each of these extensions affects the browsing experience in different ways which pushes the viewer to question the way they behave with their computers. The subtle interactions and changes to the websites by the extensions are just enough to get the viewer to start thinking critically about their interactions.
 
-[EchoLearn](https://parsons.edu/dt/echolearn/)
-*Zhizhen (Jerry) Tan*
+[EchoLearn][2]\\
+*Zhizhen (Jerry) Tan*\\
 EchoLearn is a tool which helps visually impaired people learn the technique of echolocation. The tool uses SoundAR, developed by Bose along with game engines to create mock environments in which users can practice echolocations and learn how to comprehend the spaces around them. The incredible use of sound based simulations is contextually apt, and serves a very real need. The tool itself is well designed on the back of research with relevant stakeholders.
 
-[there is no incognito tab](https://parsons.edu/dt/there-is-no-incognito-tab/) 
-*Sohee Cho*
+[there is no incognito tab][3]\\
+*Sohee Cho*\\
 ‘There is no incognito tab’ is a collection of visual poems that chronicle the creators' digital footprints. The project conveys masses of personal data through a series of visual compositions and writings, which are designed to explain the significance of the information without delving into too much technical detail. The abstraction of the complex data into easy to access content makes this a great reference.
 
-[Speculative Weeds](https://mfadt.parsons.edu/2019/page.html#7)
-*Joyce Zheng*
+[Speculative Weeds][4]\\
+*Joyce Zheng*\\
 The speculative nature of this easy to understand project is thought provoking. The resultant publications shows how the weeds of the future will look like, having to adapt to the anthropocene. This helps the viewer reflect on the far reaching effects of the anthropocene.
 
-[Digital Devotion](https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2015_razzn025) 
+[Digital Devotion][5]
 *Nadine Razzouk*
 Digital Devotion is a critical design project which takes an ironic, yet critical look at the obsession with social media and highlights the similarities between social media and religion. The public installation and performative aspect of the project both evoke reactions from the viewers.
 
@@ -31,8 +31,8 @@ Digital Devotion is a critical design project which takes an ironic, yet critica
 
 Other relevant thesis projects
 
-- [Bikes Against Bush: Using Wireless Bicycles to Protest the 2004 Republican National Convention in NYC](https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2004_jkinberg)
-- [Amara](https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2015_faras385)
+- [Bikes Against Bush: Using Wireless Bicycles to Protest the 2004 Republican National Convention in NYC][6]
+- [Amara][7]
 
 
 
@@ -60,3 +60,11 @@ Other relevant thesis projects
 - affective interface
 - human factors
 - experimental study
+
+[1]:	https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2020_golde584
+[2]:	https://parsons.edu/dt/echolearn/
+[3]:	https://parsons.edu/dt/there-is-no-incognito-tab/
+[4]:	https://mfadt.parsons.edu/2019/page.html#7
+[5]:	https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2015_razzn025
+[6]:	https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2004_jkinberg
+[7]:	https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2015_faras385
