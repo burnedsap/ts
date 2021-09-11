@@ -7,8 +7,8 @@ categories: writing research
 
 Projects from the last few years:
 
-[Queering Our Interfaces](https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2020_golde584)
-*Elena Lee Gold*
+[Queering Our Interfaces](https://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2020_golde584)\
+*Elena Lee Gold*\
 The work serves as a critique of current human-computer interactions as a manifestation of hetero/gender normativity and attempts to reimagine these relationships with machines. Elena asks how creating an alternate human-computer relationship could open up possibilities for relationship dynamics in the physical world. The project takes the form for 4 Google Chrome extensions. Each of these extensions affects the browsing experience in different ways which pushes the viewer to question the way they behave with their computers. The subtle interactions and changes to the websites by the extensions are just enough to get the viewer to start thinking critically about their interactions.
 
 [EchoLearn](https://parsons.edu/dt/echolearn/)
