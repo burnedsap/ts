@@ -32,7 +32,7 @@ Digital Devotion is a critical design project which takes an ironic, yet critica
 Other relevant thesis projects
 
 - [Bikes Against Bush: Using Wireless Bicycles to Protest the 2004 Republican National Convention in NYC][6]
-- [Amara][7] {:target="_blank"}
+- [Amara][7]{:target="_blank"}
 
 
 
