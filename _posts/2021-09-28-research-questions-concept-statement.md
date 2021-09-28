@@ -6,7 +6,7 @@ categories: writing research
 ---
 
 
-### Concept Statement
+## Concept Statement
 I am researching **Human Machine Relations**  
 in the domain of **HCI**  
 so that I can find out **better ways of interacting with our machines**.  
@@ -15,7 +15,7 @@ with affordances, including **new kinds of machine intelligence, multi-species 
 so that people may **build new kinds of sustainable, diverse, and emotional machines**.  
   
 
-### Research Questions
+## Research Questions
 My concept statement is fairly broad, and encompasses within it an ever expanding scope of research. I've framed my concept statement in a vague manner, as I'd like to expand my scope of research before narrowing it down to a few topics. Some of the key questions for my project are:  
 <br>
 - New models of computing
