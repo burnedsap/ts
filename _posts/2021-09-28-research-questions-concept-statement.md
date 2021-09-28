@@ -32,7 +32,8 @@ My concept statement is fairly broad, and encompasses within it an ever expandin
     - Subvert web 3.0
     - 'healthy' behaviours with digital technology?
     - how do different interfaces/mental models affect our use of technology?  
-
+  
+  
 - New kinds of machine intelligences
     - Planet centered machine intelligence
     - Multi-species communication and intelligence networks
