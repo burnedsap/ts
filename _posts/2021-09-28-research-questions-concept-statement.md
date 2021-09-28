@@ -7,12 +7,12 @@ categories: writing research
 
 
 ### Concept Statement
-I am researching *Human Machine Relations* 
-in the domain of *HCI*
-so that I can find out *better ways of interacting with our machines*.
-My goal is to propose a solution to this problem in the form of *multiple prototypes*
-with affordances, including *new kinds of machine intelligence, multi-species communication, and creating emotional relationships with machines*
-so that people may *build new kinds of sustainable, diverse, and emotional machines*.
+I am researching **Human Machine Relations**\\ 
+in the domain of **HCI**\\
+so that I can find out **better ways of interacting with our machines**.\\
+My goal is to propose a solution to this problem in the form of *multiple prototypes*\\
+with affordances, including **new kinds of machine intelligence, multi-species communication, and creating emotional relationships with machines**\\
+so that people may **build new kinds of sustainable, diverse, and emotional machines**.\\
 
 
 ### Research Questions
