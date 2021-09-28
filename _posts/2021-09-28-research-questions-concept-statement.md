@@ -7,12 +7,18 @@ categories: writing research
 
 
 ### Concept Statement
-I am researching **Human Machine Relations**\\ 
-in the domain of **HCI**\\
-so that I can find out **better ways of interacting with our machines**.\\
-My goal is to propose a solution to this problem in the form of *multiple prototypes*\\
-with affordances, including **new kinds of machine intelligence, multi-species communication, and creating emotional relationships with machines**\\
-so that people may **build new kinds of sustainable, diverse, and emotional machines**.\\
+I am researching **Human Machine Relations**  
+
+in the domain of **HCI**  
+
+so that I can find out **better ways of interacting with our machines**.  
+
+My goal is to propose a solution to this problem in the form of **multiple prototypes**  
+
+with affordances, including **new kinds of machine intelligence, multi-species communication, and creating emotional relationships with machines**  
+
+so that people may **build new kinds of sustainable, diverse, and emotional machines**.  
+
 
 
 ### Research Questions
@@ -32,6 +38,5 @@ My concept statement is fairly broad, and encompasses within it an ever expandin
     - Multi-species communication and intelligence networks
     - closed loop machine learning practices (Data, energy, ownership, etc.)
     - Tapping into non-human intelligences  
-
 
 The intent is to create a few small prototypes, each of which will explore a certain topic or idea. The next step after this will be to frame a list of questions, and then go about answering them with research and eventually a prototype. Small, interactive prototypes which focus on the user experience and frameworks are preferable as they can be used to further ask more questions and provoke conversations. 
