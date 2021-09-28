@@ -25,13 +25,13 @@ My concept statement is fairly broad, and encompasses within it an ever expandin
     - Rethinking data structures
     - Subvert web 3.0
     - 'healthy' behaviours with digital technology?
-    - how do different interfaces/mental models affect our use of technology?
+    - how do different interfaces/mental models affect our use of technology?  
 
 - New kinds of machine intelligences
     - Planet centered machine intelligence
     - Multi-species communication and intelligence networks
     - closed loop machine learning practices (Data, energy, ownership, etc.)
-    - Tapping into non-human intelligences
+    - Tapping into non-human intelligences  
 
 
 The intent is to create a few small prototypes, each of which will explore a certain topic or idea. The next step after this will be to frame a list of questions, and then go about answering them with research and eventually a prototype. Small, interactive prototypes which focus on the user experience and frameworks are preferable as they can be used to further ask more questions and provoke conversations. 
