@@ -35,4 +35,6 @@ My concept statement is fairly broad, and encompasses within it an ever expandin
     - closed loop machine learning practices (Data, energy, ownership, etc.)
     - Tapping into non-human intelligences  
 
+<br>
+
 The intent is to create a few small prototypes, each of which will explore a certain topic or idea. The next step after this will be to frame a list of questions, and then go about answering them with research and eventually a prototype. Small, interactive prototypes which focus on the user experience and frameworks are preferable as they can be used to further ask more questions and provoke conversations. 
