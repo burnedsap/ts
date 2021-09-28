@@ -8,22 +8,16 @@ categories: writing research
 
 ### Concept Statement
 I am researching **Human Machine Relations**  
-
 in the domain of **HCI**  
-
 so that I can find out **better ways of interacting with our machines**.  
-
 My goal is to propose a solution to this problem in the form of **multiple prototypes**  
-
 with affordances, including **new kinds of machine intelligence, multi-species communication, and creating emotional relationships with machines**  
-
 so that people may **build new kinds of sustainable, diverse, and emotional machines**.  
-
-
+  
 
 ### Research Questions
 My concept statement is fairly broad, and encompasses within it an ever expanding scope of research. I've framed my concept statement in a vague manner, as I'd like to expand my scope of research before narrowing it down to a few topics. Some of the key questions for my project are:  
-
+<br>
 - New models of computing
     - Emotional connections with machines
     - metrics of success (carbon footprint, repairability, lifespan, etc.)
@@ -31,9 +25,10 @@ My concept statement is fairly broad, and encompasses within it an ever expandin
     - Rethinking data structures
     - Subvert web 3.0
     - 'healthy' behaviours with digital technology?
-    - how do different interfaces/mental models affect our use of technology?  
-  
-  
+    - how do different interfaces/mental models affect our use of technology?
+
+<br>
+
 - New kinds of machine intelligences
     - Planet centered machine intelligence
     - Multi-species communication and intelligence networks
