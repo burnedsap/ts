@@ -16,7 +16,7 @@ so that people may **build new kinds of sustainable, diverse, and emotional mac
 
 
 ### Research Questions
-My concept statement is fairly broad, and encompasses within it an ever expanding scope of research. I've framed my concept statement in a vague manner, as I'd like to expand my scope of research before narrowing it down to a few topics. Some of the key questions for my project are:
+My concept statement is fairly broad, and encompasses within it an ever expanding scope of research. I've framed my concept statement in a vague manner, as I'd like to expand my scope of research before narrowing it down to a few topics. Some of the key questions for my project are:  
 
 - New models of computing
     - Emotional connections with machines
