@@ -2,7 +2,6 @@
 layout: post
 title:  "Research & Design Questions + Concept Statement"
 date:   2021-09-28 21:16:48 -0400
-categories: writing research
 ---
 
 

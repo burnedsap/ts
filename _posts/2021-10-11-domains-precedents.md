@@ -2,7 +2,6 @@
 layout: post
 title:  "Domains and Precedents"
 date:   2021-10-11 21:16:48 -0400
-categories: writing research
 ---
 
 
