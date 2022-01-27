@@ -8,7 +8,7 @@ I had 3 days and 3 nights to think of things I'd like to work on. No matter what
 
 ### Dissentware
 
-![dissentware](/ts1/media/ideation-1.jpeg)
+![dissentware](/ts/media/ideation-1.jpeg)
 
 - [Museum of stolen artifacts](https://ms1-salil.glitch.me/posts/museum-of-stolen-artifacts.html){:target="_blank"} 
 - [Steganography app](http://cclab-portfolio-salil.glitch.me/p5.html){:target="_blank"}
@@ -16,7 +16,7 @@ I had 3 days and 3 nights to think of things I'd like to work on. No matter what
 
 ### Machine-Human Relations
 
-![machine-human relations](/ts1/media/ideation-2.jpeg)
+![machine-human relations](/ts/media/ideation-2.jpeg)
 
 - [Automata/Simulation](https://burnedsap.github.io/ms2/2021/02/28/5in5-5/){:target="_blank"} which then led to a more [complex simulation](http://burnedsap.github.io/pond/){:target="_blank"}
 - [Speculative Patent](https://burnedsap.github.io/ms2/media/WWFNIS%20Draft%20Patent%20Application.pdf){:target="_blank"}

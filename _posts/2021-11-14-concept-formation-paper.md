@@ -8,7 +8,7 @@ I’m working on researching a new approach toward machine intelligence. Machine
 
 The main drivers of this project will be the provocations which will enable the iterative development of concepts and prototypes. These prototypes can take the form of visuals, physical objects, computational forms, documents, and more. One of the first prototypes developed for this project was an exploration of a non-human sense. All objects powered by electricity, and beings with a nervous system cause disturbance in the electromagnetic field around them. Some creatures are even able to sense these disturbances to look for prey. Objects driven by electricity, especially those with sensitive circuitry can be quite susceptible to these disturbances. These objects can feel the presence of other electronic devices and biotic beings simply through these disturbances, and without the need for any physical contact. The prototype is a simple device through which we can see the world through the electromagnetic spectrum. 
 
-![image of second prototype, which is a small brown cardboard box, with 3 copper antennas sticking out from one end](/ts1/media/electric-feel-5.jpg)
+![image of second prototype, which is a small brown cardboard box, with 3 copper antennas sticking out from one end](/ts/media/electric-feel-5.jpg)
 <br>
 
 The intention with this prototype is to see the world through a non-human lens and reflect on the experiences of doing so. 
