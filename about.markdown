@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the documentation for TS1, guided by David Carroll and Louisa Campbell
+This is the documentation for Thesis Studio, guided by David Carroll, Louisa Campbell and Aya Karpinska
