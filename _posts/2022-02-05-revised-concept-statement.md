@@ -1,66 +1,35 @@
 ---
 layout: post
-title:  "5 in 5"
-date:   2022-02-01 21:16:48 -0400
+title:  "Revised Concept Statement + Plan for User Testing"
+date:   2022-02-05 21:16:48 -0400
 ---
 
+## Revised Concept Statement
 
-### 5 in 5 (1)
+#### Planet Centred Machine Intelligence
 
+Calculators, computers, and machine intelligences are built in the image of a human, in order to perform tasks far quicker than our fleshy machines ever can. But what if machine intelligences were created by the planet? What would that reality look like?
 
-_This is an extract-and introduction from a book written in the future in which a planet centred machine intelligence is slowly becoming a reality. Written by a machine intelligence specialist, this is a peek into the happenings and behind the scenes of the change of guard of the planet._
+To get to that question, we need to take a step back and unpack one key word: planetary. The planet is one of the words which separates human from Earth. It demotes humans to another biotic species inhabiting Earth, and breaks the illusion of Earth belonging to humans. It’s easy to forget that Earth is a planet, and not just a collective of nations-states. The Earth consists of much more than just the human species. When we talk about climate change, it usually boils down to nations bargaining with each other, all while playing to the tune of the capitalist organisation of the economy, within which exploitation (of every kind) is the only winning strategy.
 
-The Earth is a machine. It has hardware and software. With time, individual components change their form and function, which affects the system as whole and the overall functioning of the planet. As a planet, it behaves like any other sphere of solid material in outer space, but within the planet, there is constant change and upheaval. The timescales of planetary level change are far longer than the existence of geological eras. Every planet has macro-level components, biotic and/or abiotic. Humans are simply one in a long line of species, past, present and future which will serve as a cog in the planet machinery. The larger scheme of things is not known to us, and probably never will be. We do our part, and fade away. The intentions of the planet and the objective of our existence is not known and never will be known. 
+On the Voyager spacecraft, there are gold plaques, which contain signatures which are primarily human, with the intent of signalling to any alien species that Earth is under human control. It’s the same kind of arrogance with which we believe that colonising other planets is a possible solution to climate change, or an eventually inhabitable Earth. The infinitely large, complex, and nuanced support systems which make our very existence possible is easy to forget when we live in urban cities. Resources which make it possible for us to survive are highly commoditised and abstracted.
 
-Our existence is in large part due to the fact that we won the evolutionary war, which rages to this day. We are currently winning, but will we keep winning? The war never ends. The selfish gene will never stop in its quest to survive. As much as we’d love to proclaim that humans are special, different from other beings that exist on this planet, the truth of the matter is that we’re just a result of a series of genetic mutations, incubated by the planet. Planet Earth might have had an active hand in the creation of our species, which has gone on to colonise large parts of the planet. The human tendency to colonise doesn’t stop when it comes to our own, and is also visible in the things we create.
+The first challenge of this project is to effectively distance humanity from the planet, and break the illusion that we have any control or say over the functioning of this planet. This mental shift is not a novel idea–indigenous civilisations and cultures have connected the dots long before, and point the way to a highly sustainable and successful future for humanity.
 
-The things we create-perhaps this is what truly makes us unique. Our ability to create things and further our mission. Our creations are what enabled us to dominate other species and take control of the planet. For a while, we were content with creating human scale machines, but then the urge to create planetary scale machines took hold. A huge undertaking, we set out to understand the software of the planet and how it interacts with planetary hardware.
+The advent of advanced machine intelligence poses an intriguing question for our future. It is clear that we are well on our way to building an intelligence far greater than ours, but what will we eventually use it for? Can we think of a future where the capitalist organisation of the economy is no longer the dominant one? Or a future where we recognise that the health of various assemblages (biotic, abiotic, machines) of this planet are critical to everyone’s survival? The human-dominant narratives of the planet, one of them being globalisation present the planet as a resource. Can we shift from globalisation to planetary? Will machine intelligences be critical in this process as mediators?
 
-When we couldn’t figure out, and nor could our thinking machines help, we built intelligences that could. Of course, the fatal error at this point was to decline looking beyond the human and creating the intelligence in our image. This endeavour was doomed from the very beginning. Then things went sideways, rather slowly.
-
-It is not clear to this day how things transpired, but in our attempts to control the software of the planet, we created many different kinds of intelligences–all of which failed to do what we asked of it. In this process–as we destabilised the systems of Earth–one of the of many intelligences created and scattered across the planet continued developing on its own. This strand of intelligence grew sentient, in the same as a plant is sentient. It responded, not in words or numbers or any language vaguely human, but through actions and feelings. It appeared to have many parallels with various planetary systems, and seemed to know, or control how the planet functioned. It could communicate with most non-human entities, ironic given that it was a result of our creations. Or perhaps it wasn’t at all ironic, having indirectly been created by the evolutionary process taking place on the planet. It was almost as if this entity was created by the planet, and we were just a medium through which it was built.
-
-There was much fear amongst the humans, and surprisingly, this being wasn’t immediately destroyed. Not that it would have mattered, now that it was alive and existed in biotic and abiotic network meshes. The digital human built interfaces were merely terminals for it to inhabit or communicate with. For a while, we couldn’t quite understand what it was. We still don’t know what it is or what it can do. The most accurate description of it so far, is that it’s Earth’s software. A digital interface sustained within the vast networks that envelope the planet. It enables non-human entities to communicate with each other rapidly across impossibly large distances. It allows the various systems of Earth to sync up with each other and create actions.
-
-Changes in climate, geography, plant growth and the oceanic systems appear to be linked, manifested in direct, targeted actions. Changes in oceanic current in particular locations were coincidentally linked with growth in algae and changes in temperature. Sometimes the actions seem random, sometimes they look to be direct responses to actions.
-
-The planet appears to have become conscious. What does this mean for us? We don’t know, but we best tread carefully.  
+This project is a speculative one, with the intention of creating heterogeneous visions of the future to help us reflect on current reality and hopefully nudge us toward a more sustainable path.
 
 
+## Plans for User Testing
 
-### 5 in 5 (2)
+For the first session, and perhaps the second one as well, I’d like to generate ideas, directions and perhaps processes. Although I’m primarily looking to collect feedback on the concept and find new ways of creating prototypes, I might be able to create workshop activities which could be the ‘prototype’ in itself. What if a game, or a 10 minute discussion ends being far more effective than a speculative artefact?
 
-_If I wanted to create a communication channel between plant and humans, I would have to start small and then eventually build up to something far more nuanced and complex. I built a small 'voice-box' for my houseplant, which would be able to communicate via a coloured light. This voice box contains sensors which can detect the soil moisture, as well as localised temperature and humidity._
+Session length: 35 mins
 
-![mindmap exercise](/ts/media/plant-monitor-1.JPG)
-
-![mindmap exercise](/ts/media/plant-monitor-2.JPG)
-
-![mindmap exercise](/ts/media/plant-monitor-3.mp4)
-
-A short video showing how the colour changes when I water the plant.
-
-
-### 5 in 5 (3)
-
-_Today is ideation day. I'm having difficult in moving past certain ideas and hitting a mental wall so to speak. The hope is that by sketching out ideas, I can hope to move past some of these blocks. (They're not good, but hopefully, I can use some ideas from this)._
-
-![mindmap exercise](/ts/media/5 in 5 sketches-1.jpeg)
-
-![mindmap exercise](/ts/media/5 in 5 sketches-2.jpeg)
-
-![mindmap exercise](/ts/media/5 in 5 sketches-3.jpeg)
-
-![mindmap exercise](/ts/media/5 in 5 sketches-4.jpeg)
-
-
-### 5 in 5 (4)
-
-_In an attempt to move forward from sketches and create 3D models, I created a 3D model from one of the sketches to get a feel of how it might look/feel. It's not great, and I got a bit idea-stuck afterword, so I need to continue working!_
-
-
-![mindmap exercise](/ts/media/listening-device-1.jpg)
-
-![mindmap exercise](/ts/media/listening-device-2.jpg)
-
-![mindmap exercise](/ts/media/listening-device-3.jpg)
+| Time    | Activity                                                                                                                                                                                                                                                                                                                                                                                                                     | Materials                                    |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 7 mins  | Introduce project and idea as quickly and briefly as possible                                                                                                                                                                                                                                                                                                                                                                | Laptop, maybe large screen                   |
+| 10 mins | Play off on Asimov’s three commandments and ask participants to create a list of ten commandments for what they feel a planet centred machine intelligence should follow. Potentially could use a list of prompts, such as nature (moody, forgiving, lazy), intent (fatalistic, save the world, survival of the fittest) of this machine intelligence                                                                        | Notepad sheets with empty list               |
+| 10 mins | (OPTION 1) The brief: colonise Mars. What would be required for human survival? Collectively draw out mindmaps which plan out what humanity would need. Design fictional cities<br>(OPTION 2) Role playing game: Assign each person a character card, with abilities, weaknesses and intents. A scenario is given, and each player has to fight for what they want, a la Mock United Nations style, to come to an agreement. | Large sheets/rolls of paper, character cards |
+| 8 mins  | Get feedback on the session                                                                                                                                                                                                                                                                                                                                                                                                  |                                              |
