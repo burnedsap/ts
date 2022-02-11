@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "User Testing Reflections"
-date:   2022-02-11 21:16:48 -0400
+title: "User Testing Reflections"
+date: 2022-02-10 21:16:48 -0400
 ---
 
 It’s fair to say that I didn’t have much to user-test, so I ended up using the sessions as a way to try out ideas and see how folks reacted to my concept. My [testing plan]({% post_url 2022-02-05-revised-concept-statement %}) was brief and mostly included sharing the concept and conducting a few activities to gauge reactions.
