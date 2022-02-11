@@ -9,7 +9,7 @@ baseurl: "/ts" # the subpath of your site, e.g. /blog
 url: "https://burnedsap.github.io/ts"
 twitter_username: burnedsap
 github_username:  burnedsap
-
+future: true
 # Build settings
 plugins:
   - jekyll-feed
