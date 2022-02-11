@@ -4,7 +4,7 @@ title:  "User Testing Reflections"
 date:   2022-02-11 21:16:48 -0400
 ---
 
-It’s fair to say that I didn’t have much to user-test, so I ended up using the sessions as a way to try out ideas and see how folks reacted to my concept. My ![testing plan](add link) was brief and mostly included sharing the concept and conducting a few activities to gauge reactions.
+It’s fair to say that I didn’t have much to user-test, so I ended up using the sessions as a way to try out ideas and see how folks reacted to my concept. My ![testing plan]({% post_url 2022-02-05-revised-concept-statement %}) was brief and mostly included sharing the concept and conducting a few activities to gauge reactions.
 
 After briefly explaining the project and what I was trying to accomplish, I gave each participant a sheet with ten blank slots to fill, titled “from the office of Planetary Centred Machine Intelligence.” There’s two things being tested here. The first–asking participants to issue 10 commandments to a hypothetical Planet Centred Machine Intelligence if they were put in charge, and the second–testing out the idea of creating a fictional organisation titled ‘Planetary Centred Machine Intelligence’. The branding was a last minute inclusion, and I further explored this concept by creating a website mockup for the second test.
 
