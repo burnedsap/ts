@@ -4,9 +4,6 @@ title: "Final Project Description"
 date: 2022-02-18 21:16:48 -0400
 ---
 
-Planet Centred Machine Intelligence
-
-
 ### Concept Note
 
 Calculators, computers, and machine intelligences are built in the image of a human, in order to perform tasks far quicker than our fleshy machines ever can. But what if machine intelligences were created by the planet? What would that reality look like?
