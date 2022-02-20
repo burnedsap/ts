@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final Project Description"
-date: 2022-02-11 21:16:48 -0400
+date: 2022-02-18 21:16:48 -0400
 ---
 
 Planet Centred Machine Intelligence
