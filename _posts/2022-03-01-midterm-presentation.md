@@ -43,4 +43,4 @@ The spread of mediums explored has been fairly okay so far, and a few more explo
 
 This is a problem–time management has been suboptimal, which has affected the creation of iterations and final production plan. Not sure if it will ever be possible to catch up, but would be nice to get closer.
 
-*Total*: _10/20_
+**Total**: _10/20_
