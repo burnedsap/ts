@@ -1,46 +1,9 @@
 ---
 layout: post
-title: "Midterm Presentation & Self Assessment"
-date: 2022-03-01 21:16:48 -0400
+title: "Final Deliverables"
+date: 2022-05-10 21:16:48 -0400
 ---
 
-### Midterm Presentation
+As the semester draws to a close, I can finally present a final form of my efforts from across the thesis semesters: [The Planetary Bureau](https://theplanetarybureau.com). All the work from the semester, barring a few explorations can be found on this website. The Planetary Bureau is the result of many mistakes, some surprises, and a lot of thinking. The failures and mistakes are the defining features of the project, and those have been the greatest learnings, even if the final result isn't up to my expectations.
 
-![Midterm Presentation](/ts/media/Thesis Midterm Presentation.pdf)
-Find the midterm presentation attached [here](https://burnedsap.github.io/ts/media/Thesis Midterm Presentation.pdf){:target="_blank"}.
-
-
-### Self Assessment
-
-The midterm presentation was useful, not only for getting useful feedback from critics, but also in helping me take stock and assess my own progress. The process of making a presentation is a great way to reflect on the project and spot areas to work on. I realised that I have made progress since the start of the semester, which is always encouraging. The narrative of the project is starting to come together as well.
-
-**Communication** | _1/4_
-
-This didn't go as well as I'd hoped. The presentation slides weren't bad, and the timing was okay. I usually end on 7 minutes but I was tripping over some words and getting a bit lost in the narrative. It could definitely be cleaner. The idea was conveyed successfully, to a point where the critics identified better ways to describe it. The examples presented weren't successful, and more time could have been spent explaining the visuals created.
-
-
-**Critical Thinking and Reflective Judgment** | _2/4_
-
-I have been asking many questions, but haven't yet gotten around to answering them well. There have been some moments of clarity where attempts have been made to answer some of them. My project is effectively a reflective one, which helps me remain in a fairly reflective zone. Some of the ideas and provocations have been interesting, but there remains much to be desired when it comes to fleshing them out. More detail, more work is needed. The narrative and form of the project is less hazy that it was before and it seems to be more focussed and effective.
-
-
-**Design Process** | _2/3_
-
-Much improvement needed. Progress has been painfully slow, almost as if the project is pushing against an immovable wall. There's been a few bright sparks, but more experimentation might help. The research paper, website and visuals are pushing the project in the right direction, but more is needed. More failures in order to achieve more successes.
-
-
-**Contextualization, Conclusion and Evaluation** | _2/3_
-
-It's not easy to say whether I have done a thorough job of connecting all the appropriate historic and contemporary precedents, as I've found that sometimes I come to the same conclusions without having read up on previous projects. This time around, there are more references to previous precedents which are helping form a concrete argument for the approach and as inspiration for more artefacts. I haven't yet gotten to the stage where I can start making concrete conclusions, a distinct omission.
-
-
-**Integration and Appropriate Use of Technology** | _2/3_
-
-The spread of mediums explored has been fairly okay so far, and a few more explorations may lead to discovering the right form for the project. Needs more work.
-
-
-**Iteration, Production, Time Management** | _1/3_
-
-This is a problem–time management has been suboptimal, which has affected the creation of iterations and final production plan. Not sure if it will ever be possible to catch up, but would be nice to get closer.
-
-**Total**: _10/20_
+What started out in 2021 as an exploration of what machines meant to me, and the emotional relationship I have with certain machines turned into a 9-month exercise of trying to escape the human, and the human gaze of the world around me. The underlying intent of thesis was to work on something which would push the viewer to live a more sustainable life. The first approach was to increase the life of machines we use by building an emotional and meaningful relationship with them. My inability to properly flesh this out led me to a dead-end on this approach.
