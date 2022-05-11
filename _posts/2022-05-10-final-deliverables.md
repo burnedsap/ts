@@ -21,4 +21,5 @@ In retrospect, I wish I had gotten to this point in the middle of the project. I
 However, I do appreciate all that I've learnt from the project, and I can also see a sliver of a potential career path. The Planetary Bureau could well take on a life of its own, far beyond the state it is in at the moment. I'm excited to see how far this can go, given the appropriate investment.
 
 ![Thesis Paper](/ts/media/The Planetary Bureau Thesis Doc.pdf)
+
 Find the thesis paper attached [here](https://burnedsap.github.io/ts/media/The Planetary Bureau Thesis Doc.pdf){:target="\_blank"}.
