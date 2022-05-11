@@ -19,3 +19,6 @@ Testing the project has led to mixed results. Sometimes, it seems to do exactly 
 In retrospect, I wish I had gotten to this point in the middle of the project. I could've very well have built The Planetary Bureau at the beginning of 2022 if I'd made the right calls and worked harder. This feels like the very beginning of the project, and I can see a roadmap to building it out to where I would actually want it to be at this point in the semester.
 
 However, I do appreciate all that I've learnt from the project, and I can also see a sliver of a potential career path. The Planetary Bureau could well take on a life of its own, far beyond the state it is in at the moment. I'm excited to see how far this can go, given the appropriate investment.
+
+![Thesis Paper](/ts/media/The Planetary Bureau Thesis Doc.pdf)
+Find the thesis paper attached [here](https://burnedsap.github.io/ts/media/The Planetary Bureau Thesis Doc.pdf){:target="\_blank"}.
